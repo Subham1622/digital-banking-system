@@ -1,0 +1,36 @@
+# ✅ Maven build folder
+target/
+
+# ✅ Compiled Java classes
+*.class
+
+# ✅ Binary files
+*.bin
+
+# ✅ Logs
+*.log
+
+# ✅ Eclipse files
+.project
+.classpath
+.settings/
+
+# ✅ Spring Tool Suite
+.springBeans
+
+# ✅ OS files
+.DS_Store
+Thumbs.db
+
+# ✅ Temp files
+*.tmp
+
+# ✅ IDE (optional)
+.idea/
+
+# ✅ Node (for Angular later)
+node_modules/
+dist/
+
+# ✅ H2 DB files (if any)
+*.mv.db
